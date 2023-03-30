@@ -1,0 +1,21 @@
+#containerCharracters{
+    display: flex;
+}
+
+.card-character{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 30%;
+    border: 1px solid black;
+    padding: 5px;
+
+}
+
+.icon{
+   width: 200px;
+}
+
+.icon img{
+    width: 100%;
+ }
